@@ -29,8 +29,8 @@ une approche de type bag-of-words ;
 
 - Un notebook d’exploration comprenant une analyse univariée, une analyse multivariée, une réduction dimensionnelle et les différentes questions de recherche associées (non cleané, pour comprendre votre démarche).
 
-- Un notebook de test de différents modèles (non cleané, pour comprendre votre démarche).
-Le code final à déployer présenté dans un répertoire et développé progressivement à l’aide d’un logiciel de gestion de versions (plusieurs commits cohérents).
+- Un notebook de test de différents modèles .
+
 
 - Le point d’entrée d’une API disponible pour le test.
 
